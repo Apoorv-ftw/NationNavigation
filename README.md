@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://https://github.com/Apoorv-ftw/NationNavigation](https://https://github.com/Apoorv-ftw/NationNavigation)
+- Solution URL: [https://github.com/Apoorv-ftw/NationNavigation](https://https://github.com/Apoorv-ftw/NationNavigation)
 
 
 ## My process
